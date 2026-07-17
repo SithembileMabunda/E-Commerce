@@ -1,1 +1,27 @@
 # Lead-Bot
+
+- https://en.wikipedia.org/wiki/Customer_relationship_management
+- https://www.python.org/
+- https://www.djangoproject.com/
+- https://www.django-rest-framework.org/
+- https://htmx.org/docs/
+- https://www.docker.com/
+- https://aws.amazon.com/elasticbeanstalk/
+- https://developer.mozilla.org/en-US/
+- https://en.wikipedia.org/wiki/Tkinter
+- https://en.wikipedia.org/wiki/Monolithic_architecture
+- https://en.wikipedia.org/wiki/Cloud_computing
+- https://en.wikipedia.org/wiki/Load_balancing_(computing)
+- https://en.wikipedia.org/wiki/Round-robin_scheduling
+- https://en.wikipedia.org/wiki/REST
+- https://en.wikipedia.org/wiki/OpenAPI_Specification
+- https://en.wikipedia.org/wiki/Richardson_Maturity_Model
+- https://en.wikipedia.org/wiki/Token_bucket
+- https://en.wikipedia.org/wiki/Web_application_firewall
+- https://en.wikipedia.org/wiki/Cache_stampede
+- https://en.wikipedia.org/wiki/SHA-2
+- https://en.wikipedia.org/wiki/OAuth
+- https://developers.google.com/identity/protocols/oauth2/web-server#python_1
+- https://en.wikipedia.org/wiki/Session_ID
+- https://en.wikipedia.org/wiki/Object-oriented_programming
+- https://www.tensorflow.org/
