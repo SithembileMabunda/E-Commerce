@@ -1,6 +1,6 @@
 # Lead-Bot
 
-- https://en.wikipedia.org/wiki/Customer_relationship_management
+- https://en.wikipedia.org/wiki/E-commerce
 - https://www.python.org/
 - https://www.djangoproject.com/
 - https://www.django-rest-framework.org/
